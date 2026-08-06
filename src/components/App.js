@@ -8,7 +8,6 @@ const App = () => {
         {/* Do not remove the main div */}
     </div>
   )
-  
 }
 
 export default App
